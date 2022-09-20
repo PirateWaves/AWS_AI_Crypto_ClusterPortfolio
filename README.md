@@ -7,9 +7,7 @@ _[Cryptocurrencies coins by Worldspectrum](https://www.pexels.com/@worldspectrum
 
 You are a Senior Manager at the Advisory Services team on a [Big Four firm](https://en.wikipedia.org/wiki/Big_Four_accounting_firms), one of your most important clients, a prominent investment bank, is interested in offering a new cryptocurrencies investment portfolio for its customers, however, they are lost in the immense universe of cryptocurrencies, they ask you to present a report of what cryptocurrencies are on the trading market and how cryptocurrencies could be grouped towards creating a classification for developing this new investment product.
 
-In this homework assignment, you have the opportunity to put in action your new unsupervised learning and Amazon SageMaker skills to cluster cryptocurrencies and create some plots to present your results.
-
-You are asked to accomplish the following main tasks:
+I used unsupervised learning and Amazon SageMaker skills to cluster cryptocurrencies and create some plots to present my results.
 
 * **[Data Preprocessing](#Data-Preprocessing):** Prepare data for dimension reduction with PCA and clustering using K-Means.
 
@@ -131,14 +129,3 @@ Perform the following tasks:
 
 * [Install External Libraries and Kernels in Amazon SageMaker Notebook Instances](https://docs.aws.amazon.com/sagemaker/latest/dg/nbi-add-external.html)
 
-### Submission
-
-* Code your solution using the provided starter Jupyter notebook.
-
-* For the _Challenge_ section, create a new Jupyter notebook named `crypto_clustering_sm.ipynb` and include the necessary code to import the additional required library.
-
-* Create and upload a repository with the above files to GitHub and post a link in BootCamp Spot.
-
----
-
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
